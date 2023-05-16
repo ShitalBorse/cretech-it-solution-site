@@ -1,0 +1,22 @@
+.clients .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px;
+}
+
+.clients .container img {
+    width: 60%;
+    opacity: 1.5;
+    align-self: center;
+    max-width: 75%;
+    height: auto;
+    /*filter: grayscale(100%);*/
+}
+
+.Error404 {
+    width: auto;
+    height: 400px;
+    justify-self: center;
+    background-size: contains;
+}
